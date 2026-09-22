@@ -1,0 +1,28 @@
+functions
+
+  https://www.w3schools.com/js/js_functions.asp
+
+Functions are reusable code blocks designed for particular tasks
+Functions are executed when they are called or invoked
+Functions are fundamental in all programming languages
+
+  Functions are executed when they are called or invoked
+You call a function by adding parentheses to its name: name()
+
+  Parameters allow you to send values to a function
+Parameters are listed in parentheses in the function definition
+
+  A function can return a value back to the code that called it
+The return statement is used to return a value from a function
+
+  Function parameters and arguments are distinct concepts
+Parameters are the names listed in the function definition
+Arguments are the values received by the function
+
+  A function expression is a function stored in a variable
+The variable name can be used to call the function
+
+  Arrow Functions is a short syntax for function expressions
+You can skip the function keyword
+You can skip the return keyword
+You can skip the curly brackets
