@@ -1,0 +1,24 @@
+One return-
+
+function multiply(a, b) {
+  return a * b
+}
+
+multiply(5, 2);
+
+Two returns -
+
+function multiply(a, b) {
+  if(a>10 || b > 10) {
+    return "that's too hard for me!"
+  } else {
+  return a * b
+  }           
+}
+
+multiply(5, 2)
+
+parameters  - 2 parameters a and b
+  arguments - functions have arguments that are called
+
+  terms are used almost interchangable but are slighlty different things
