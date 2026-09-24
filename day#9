@@ -1,0 +1,24 @@
+Data structures
+
+  https://www.w3schools.com/js/js_arrays.asp
+
+Array methods
+
+  https://www.w3schools.com/js/js_array_methods.asp
+
+
+  Arrays
+  var animals = ["tiger", "mouse", "bear"]
+
+  console.log(animals[0])
+
+  var mixedList = ["apples", 0, null, true]
+
+  - Best practice is to keep types the same.
+
+  var arrayOfArrays = [
+  ["tiger", "mouse", "cat"],
+  ["dog", "rabbit", "pig"]
+  ]
+
+  var arrayOfgArrays[0];
