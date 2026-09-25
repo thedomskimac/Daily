@@ -1,0 +1,17 @@
+Loops
+
+  https://www.w3schools.com/js/js_loop_for.asp
+
+for (let i = 0; i < 5; i++) {
+  text += "The number is " + i + "<br>";
+}
+
+
+const cars = ["BMW", "Volvo", "Saab", "Ford"];
+let len = cars.length;
+
+let text = "";
+for (let i = 0; i < len; i++) {
+  text += cars[i];
+}
+
